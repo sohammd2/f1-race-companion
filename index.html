@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>F1 Race Companion</title>
+    <script type="module" crossorigin src="./assets/index-5-GPiwAZ.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-gWFLTZBj.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <h1>F1 Race Companion</h1>
+      <nav class="tabs" aria-label="Modes">
+        <button class="tab active" aria-current="page">Replay</button>
+        <button class="tab" disabled title="Coming soon">Predict</button>
+        <button class="tab" disabled title="Coming soon">Strategy</button>
+        <button class="tab" disabled title="Coming soon">Live</button>
+      </nav>
+    </header>
+
+    <main class="replay">
+      <div class="replay-heading">
+        <label class="race-picker-label">
+          Season
+          <select id="season-picker" class="race-picker" disabled></select>
+        </label>
+        <label class="race-picker-label">
+          Race
+          <select id="race-picker" class="race-picker" disabled></select>
+        </label>
+        <p id="replay-title" class="replay-title">Loading race data…</p>
+      </div>
+      <div class="replay-body">
+        <section class="tower-panel" aria-label="Timing tower">
+          <div class="tower-tabs" role="tablist" aria-label="Column to show">
+            <button class="tower-tab" role="tab" data-column="order" aria-selected="true">Order</button>
+            <button class="tower-tab" role="tab" data-column="tyres" aria-selected="false">Tyres</button>
+            <button class="tower-tab" role="tab" data-column="interval" aria-selected="false" title="Live gap to the car ahead on track (official timing measures it at the line)">Interval</button>
+            <button class="tower-tab" role="tab" data-column="gap" aria-selected="false" title="Live gap to the leader on track (official timing measures it at the line)">Gap</button>
+          </div>
+          <ol id="timing-tower" class="timing-tower" aria-label="Running order"></ol>
+        </section>
+        <div id="track-area" class="track-area">
+          <canvas id="track" class="track" aria-label="Track map with each car as a dot"></canvas>
+        </div>
+        <aside id="race-side" class="race-side" aria-label="Race status and notifications"></aside>
+      </div>
+      <div class="controls">
+        <button id="play" class="play" disabled>▶ Play</button>
+        <label>
+          Speed
+          <select id="speed" disabled>
+            <option value="1">1×</option>
+            <option value="5">5×</option>
+            <option value="10" selected>10×</option>
+            <option value="30">30×</option>
+          </select>
+        </label>
+        <input id="scrubber" class="scrubber" type="range" min="0" max="1" step="0.25" value="0"
+          aria-label="Replay position" disabled />
+        <span id="clock" class="clock">Lap –</span>
+      </div>
+    </main>
+
+  </body>
+</html>

@@ -1,0 +1,1039 @@
+{
+ "source": "DHL Fastest Pit Stop Award (inmotion.dhl), ten fastest stops per race",
+ "rounds": {
+  "1": {
+   "event": "Albert Park Grand Prix Circuit",
+   "stops": [
+    {
+     "code": "RUS",
+     "seconds": 2.17,
+     "lap": 12,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.22,
+     "lap": 25,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.24,
+     "lap": 41,
+     "irregular": false
+    },
+    {
+     "code": "HAM",
+     "seconds": 2.26,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "LIN",
+     "seconds": 2.42,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.49,
+     "lap": 12,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.52,
+     "lap": 34,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.59,
+     "lap": 33,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.63,
+     "lap": 33,
+     "irregular": false
+    },
+    {
+     "code": "OCO",
+     "seconds": 2.88,
+     "lap": 11,
+     "irregular": false
+    }
+   ]
+  },
+  "2": {
+   "event": "Shanghai International Circuit",
+   "stops": [
+    {
+     "code": "HAM",
+     "seconds": 2.29,
+     "lap": 10,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.34,
+     "lap": 9,
+     "irregular": false
+    },
+    {
+     "code": "COL",
+     "seconds": 2.54,
+     "lap": 32,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 2.58,
+     "lap": 1,
+     "irregular": false
+    },
+    {
+     "code": "GAS",
+     "seconds": 2.82,
+     "lap": 10,
+     "irregular": false
+    },
+    {
+     "code": "BEA",
+     "seconds": 2.86,
+     "lap": 10,
+     "irregular": false
+    },
+    {
+     "code": "LIN",
+     "seconds": 2.86,
+     "lap": 42,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.87,
+     "lap": 10,
+     "irregular": false
+    },
+    {
+     "code": "SAI",
+     "seconds": 2.89,
+     "lap": 9,
+     "irregular": false
+    },
+    {
+     "code": "ALO",
+     "seconds": 2.99,
+     "lap": 31,
+     "irregular": false
+    }
+   ]
+  },
+  "3": {
+   "event": "Suzuka Circuit",
+   "stops": [
+    {
+     "code": "HAM",
+     "seconds": 2,
+     "lap": 22,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.13,
+     "lap": 17,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.4,
+     "lap": 22,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 2.41,
+     "lap": 23,
+     "irregular": false
+    },
+    {
+     "code": "RUS",
+     "seconds": 2.43,
+     "lap": 21,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.47,
+     "lap": 45,
+     "irregular": false
+    },
+    {
+     "code": "PIA",
+     "seconds": 2.49,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.59,
+     "lap": 16,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.67,
+     "lap": 22,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.74,
+     "lap": 24,
+     "irregular": false
+    }
+   ]
+  },
+  "4": {
+   "event": "Miami International Autodrome",
+   "stops": [
+    {
+     "code": "LIN",
+     "seconds": 2.08,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.16,
+     "lap": 26,
+     "irregular": false
+    },
+    {
+     "code": "RUS",
+     "seconds": 2.17,
+     "lap": 20,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.34,
+     "lap": 6,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.43,
+     "lap": 27,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.58,
+     "lap": 37,
+     "irregular": false
+    },
+    {
+     "code": "PER",
+     "seconds": 2.73,
+     "lap": 29,
+     "irregular": false
+    },
+    {
+     "code": "COL",
+     "seconds": 2.8,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "BOT",
+     "seconds": 2.96,
+     "lap": 6,
+     "irregular": false
+    },
+    {
+     "code": "ALO",
+     "seconds": 2.96,
+     "lap": 41,
+     "irregular": false
+    }
+   ]
+  },
+  "5": {
+   "event": "Circuit Gilles-Villeneuve",
+   "stops": [
+    {
+     "code": "LAW",
+     "seconds": 2.2,
+     "lap": 30,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.26,
+     "lap": 2,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.57,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.58,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "SAI",
+     "seconds": 2.62,
+     "lap": 2,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 2.7,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "PIA",
+     "seconds": 2.71,
+     "lap": 1,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 2.74,
+     "lap": 2,
+     "irregular": false
+    },
+    {
+     "code": "BOT",
+     "seconds": 2.93,
+     "lap": 29,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.94,
+     "lap": 49,
+     "irregular": false
+    }
+   ]
+  },
+  "6": {
+   "event": "Circuit de Monaco",
+   "stops": [
+    {
+     "code": "ANT",
+     "seconds": 2.17,
+     "lap": 37,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.19,
+     "lap": 43,
+     "irregular": false
+    },
+    {
+     "code": "PIA",
+     "seconds": 2.22,
+     "lap": 48,
+     "irregular": false
+    },
+    {
+     "code": "RUS",
+     "seconds": 2.26,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "HAM",
+     "seconds": 2.27,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 2.53,
+     "lap": 12,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.81,
+     "lap": 4,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 3.06,
+     "lap": 32,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 3.07,
+     "lap": 43,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 3.11,
+     "lap": 35,
+     "irregular": false
+    }
+   ]
+  },
+  "7": {
+   "event": "Circuit de Barcelona-Catalunya",
+   "stops": [
+    {
+     "code": "PIA",
+     "seconds": 2.13,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.21,
+     "lap": 33,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 2.25,
+     "lap": 58,
+     "irregular": false
+    },
+    {
+     "code": "RUS",
+     "seconds": 2.27,
+     "lap": 36,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.28,
+     "lap": 29,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.29,
+     "lap": 13,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.39,
+     "lap": 12,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.46,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "ALO",
+     "seconds": 2.5,
+     "lap": 21,
+     "irregular": false
+    },
+    {
+     "code": "LIN",
+     "seconds": 2.53,
+     "lap": 22,
+     "irregular": false
+    }
+   ]
+  },
+  "8": {
+   "event": "Red Bull Ring",
+   "stops": [
+    {
+     "code": "LIN",
+     "seconds": 2.03,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "HAM",
+     "seconds": 2.05,
+     "lap": 25,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.13,
+     "lap": 49,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.21,
+     "lap": 37,
+     "irregular": false
+    },
+    {
+     "code": "RUS",
+     "seconds": 2.23,
+     "lap": 43,
+     "irregular": false
+    },
+    {
+     "code": "GAS",
+     "seconds": 2.3,
+     "lap": 38,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.3,
+     "lap": 45,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 2.32,
+     "lap": 40,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.43,
+     "lap": 51,
+     "irregular": false
+    },
+    {
+     "code": "PIA",
+     "seconds": 2.44,
+     "lap": 42,
+     "irregular": false
+    }
+   ]
+  },
+  "9": {
+   "event": "Silverstone Circuit",
+   "stops": [
+    {
+     "code": "RUS",
+     "seconds": 2.18,
+     "lap": 34,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.3,
+     "lap": 35,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.3,
+     "lap": 47,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.34,
+     "lap": 48,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.37,
+     "lap": 26,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.39,
+     "lap": 25,
+     "irregular": false
+    },
+    {
+     "code": "HAM",
+     "seconds": 2.49,
+     "lap": 48,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.51,
+     "lap": 17,
+     "irregular": false
+    },
+    {
+     "code": "GAS",
+     "seconds": 2.54,
+     "lap": 48,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 2.65,
+     "lap": 34,
+     "irregular": false
+    }
+   ]
+  },
+  "10": {
+   "event": "Circuit de Spa-Francorchamps",
+   "stops": [
+    {
+     "code": "LEC",
+     "seconds": 2.3,
+     "lap": 20,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.35,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.36,
+     "lap": 17,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.39,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.5,
+     "lap": 20,
+     "irregular": false
+    },
+    {
+     "code": "ALO",
+     "seconds": 2.72,
+     "lap": 19,
+     "irregular": false
+    },
+    {
+     "code": "PIA",
+     "seconds": 2.77,
+     "lap": 20,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 2.79,
+     "lap": 2,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.98,
+     "lap": 15,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 3.26,
+     "lap": 20,
+     "irregular": false
+    }
+   ]
+  },
+  "11": {
+   "event": "Hungaroring",
+   "stops": [
+    {
+     "code": "LIN",
+     "seconds": 1.99,
+     "lap": 20,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.08,
+     "lap": 22,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.14,
+     "lap": 42,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.15,
+     "lap": 8,
+     "irregular": false
+    },
+    {
+     "code": "GAS",
+     "seconds": 2.22,
+     "lap": 16,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.24,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "SAI",
+     "seconds": 2.24,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.32,
+     "lap": 16,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.33,
+     "lap": 29,
+     "irregular": false
+    },
+    {
+     "code": "HAM",
+     "seconds": 2.33,
+     "lap": 30,
+     "irregular": false
+    }
+   ]
+  },
+  "12": {
+   "event": "Circuit Zandvoort",
+   "stops": [
+    {
+     "code": "HUL",
+     "seconds": 2.3,
+     "lap": 19,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.31,
+     "lap": 35,
+     "irregular": false
+    },
+    {
+     "code": "RUS",
+     "seconds": 2.32,
+     "lap": 40,
+     "irregular": false
+    },
+    {
+     "code": "TSU",
+     "seconds": 2.36,
+     "lap": 18,
+     "irregular": false
+    },
+    {
+     "code": "ALO",
+     "seconds": 2.37,
+     "lap": 34,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.44,
+     "lap": 49,
+     "irregular": false
+    },
+    {
+     "code": "SAI",
+     "seconds": 2.52,
+     "lap": 65,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.56,
+     "lap": 47,
+     "irregular": false
+    },
+    {
+     "code": "OCO",
+     "seconds": 2.6,
+     "lap": 36,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.62,
+     "lap": 34,
+     "irregular": false
+    }
+   ]
+  },
+  "13": {
+   "event": "Autodromo Nazionale Monza",
+   "stops": [
+    {
+     "code": "HUL",
+     "seconds": 2.44,
+     "lap": 27,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.64,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "SAI",
+     "seconds": 2.65,
+     "lap": 27,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.76,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 4.48,
+     "lap": 46,
+     "irregular": false
+    },
+    {
+     "code": "OCO",
+     "seconds": 4.79,
+     "lap": 27,
+     "irregular": false
+    },
+    {
+     "code": "PER",
+     "seconds": 6.18,
+     "lap": 27,
+     "irregular": false
+    },
+    {
+     "code": "BOT",
+     "seconds": 6.92,
+     "lap": 27,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 8.98,
+     "lap": 12,
+     "irregular": true
+    }
+   ]
+  },
+  "14": {
+   "event": "Madring",
+   "stops": [
+    {
+     "code": "RUS",
+     "seconds": 2.14,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.34,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 2.34,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.38,
+     "lap": 47,
+     "irregular": false
+    },
+    {
+     "code": "LAW",
+     "seconds": 2.41,
+     "lap": 44,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.54,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "OCO",
+     "seconds": 2.58,
+     "lap": 14,
+     "irregular": false
+    },
+    {
+     "code": "TSU",
+     "seconds": 2.61,
+     "lap": 36,
+     "irregular": false
+    },
+    {
+     "code": "BEA",
+     "seconds": 2.67,
+     "lap": 43,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.7,
+     "lap": 48,
+     "irregular": false
+    }
+   ]
+  },
+  "15": {
+   "event": "Baku City Circuit",
+   "stops": [
+    {
+     "code": "RUS",
+     "seconds": 2.33,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "COL",
+     "seconds": 2.37,
+     "lap": 30,
+     "irregular": false
+    },
+    {
+     "code": "HUL",
+     "seconds": 2.39,
+     "lap": 32,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.47,
+     "lap": 30,
+     "irregular": false
+    },
+    {
+     "code": "SAI",
+     "seconds": 2.53,
+     "lap": 20,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.54,
+     "lap": 30,
+     "irregular": false
+    },
+    {
+     "code": "VER",
+     "seconds": 2.54,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "GAS",
+     "seconds": 2.55,
+     "lap": 30,
+     "irregular": false
+    },
+    {
+     "code": "PIA",
+     "seconds": 2.6,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "NOR",
+     "seconds": 2.98,
+     "lap": 30,
+     "irregular": false
+    }
+   ]
+  },
+  "16": {
+   "event": "Sepang International Circuit",
+   "stops": [
+    {
+     "code": "VER",
+     "seconds": 2.09,
+     "lap": 9,
+     "irregular": false
+    },
+    {
+     "code": "COL",
+     "seconds": 2.13,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "BOR",
+     "seconds": 2.15,
+     "lap": 9,
+     "irregular": false
+    },
+    {
+     "code": "ALB",
+     "seconds": 2.16,
+     "lap": 16,
+     "irregular": false
+    },
+    {
+     "code": "LEC",
+     "seconds": 2.23,
+     "lap": 28,
+     "irregular": false
+    },
+    {
+     "code": "ANT",
+     "seconds": 2.24,
+     "lap": 44,
+     "irregular": false
+    },
+    {
+     "code": "HAM",
+     "seconds": 2.26,
+     "lap": 31,
+     "irregular": false
+    },
+    {
+     "code": "STR",
+     "seconds": 2.26,
+     "lap": 43,
+     "irregular": false
+    },
+    {
+     "code": "HAD",
+     "seconds": 2.27,
+     "lap": 44,
+     "irregular": false
+    },
+    {
+     "code": "LIN",
+     "seconds": 2.3,
+     "lap": 43,
+     "irregular": false
+    }
+   ]
+  }
+ }
+}
